@@ -1,6 +1,8 @@
 .wrapper {
-    background: rgb(175, 175, 175);
-    background-image: url('https://images.app.goo.gl/5ijDh2uLiuCNV2Zp7');
+    background: rgb(233, 197, 40);
+    background-image: url('./img/dragon3.png');
+    background-repeat:fixed;
+    background-position:right;
     height: 100%;
     display: flex;
     flex-flow: row wrap;
