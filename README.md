@@ -11,7 +11,6 @@ This is a simple memorization and click game. The object of the game is to click
 4. react-script =>npm i react-scripts **[react-scripts](https://www.npmjs.com/package/react-scripts)**
 
 # How to Play:
-- Open the app/game: https://bcimbali.github.io/clicky-game/
 - Click on any character tile you desire
 - The tiles will all reshuffle themselves
 - Click on another character, but REMEMBER that you can only click on a character once.
