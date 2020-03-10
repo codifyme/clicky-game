@@ -47,6 +47,8 @@ This is a simple memorization and click game. The object of the game is to click
 # Video
 [![video Demo]({clicky/src/components/images/db3.png})]({[![IMAGE ALT TEXT HERE](https://drive.google.com/file/d/1fyP2R0IwzQNXxDGIbk-o5-ULFOLYiEGy/view} "Link Title")
 
+[![IMAGE ALT TEXT HERE](clicky/src/components/images/db3.png)](https://www.youtube.com/watch?v=Cl8aUzksHz8)
+
 
 ## Author
 
