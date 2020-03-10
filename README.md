@@ -44,10 +44,12 @@ This is a simple memorization and click game. The object of the game is to click
 * cd into clicky-game
 * Run npm start
 * Go to localhost:8000 in your web browser
+# Video
+[![Alternate Text]({image-url})]({https://drive.google.com/file/d/1fyP2R0IwzQNXxDGIbk-o5-ULFOLYiEGy/view} "Link Title")
 
 
 ## Author
 
 >-  **[Angel-Cochachez](https://github.com/codifyme/google-books-search)**. MERN Stack Developer
 @codifyme:+1 :shipit:
->- Happy Book Searching!
+>- Happy Clicky Game!
