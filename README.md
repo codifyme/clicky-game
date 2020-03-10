@@ -47,7 +47,7 @@ This is a simple memorization and click game. The object of the game is to click
 # Video
 
 
-[![VIDEO DEMO](clicky/src/components/images/db3.png)](https://www.youtube.com/watch?v=Cl8aUzksHz8)
+[![VIDEO DEMO](clicky/src/components/images/db3.png)](https://drive.google.com/file/d/1fyP2R0IwzQNXxDGIbk-o5-ULFOLYiEGy/view)
 
 
 ## Author
