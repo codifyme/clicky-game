@@ -45,7 +45,7 @@ This is a simple memorization and click game. The object of the game is to click
 * Run npm start
 * Go to localhost:8000 in your web browser
 # Video
-[![Alternate Text]({image-url})]({[![IMAGE ALT TEXT HERE](https://drive.google.com/file/d/1fyP2R0IwzQNXxDGIbk-o5-ULFOLYiEGy/view} "Link Title")
+[![video Demo]({clicky/src/components/images/db3.png})]({[![IMAGE ALT TEXT HERE](https://drive.google.com/file/d/1fyP2R0IwzQNXxDGIbk-o5-ULFOLYiEGy/view} "Link Title")
 
 
 ## Author
