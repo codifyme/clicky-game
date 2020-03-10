@@ -15,11 +15,6 @@ This is a simple memorization and click game. The object of the game is to click
 - The tiles will all reshuffle themselves
 - Click on another character, but REMEMBER that you can only click on a character once.
 - Keep going to see if you can get all 12.
-
-# Screenshot
-
-![Github MERN clicky game](clicky/src/components/images/db1.png)
-
  
 # Technologies Implemented
 
@@ -44,7 +39,7 @@ This is a simple memorization and click game. The object of the game is to click
 * cd into clicky-game
 * Run npm start
 * Go to localhost:8000 in your web browser
-# Video
+# Video Demo
 
 
 [![VIDEO DEMO](clicky/src/components/images/db3.png)](https://drive.google.com/file/d/1fyP2R0IwzQNXxDGIbk-o5-ULFOLYiEGy/view)
